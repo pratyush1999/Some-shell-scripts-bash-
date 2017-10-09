@@ -1,3 +1,4 @@
+#! /bin/bash
 df | grep "/dev/sda*" |tr -s " "| while read -r name
 do
 name1=`echo $name|cut -d " " -f 1`
