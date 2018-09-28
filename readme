@@ -1,4 +1,6 @@
-THIS IS MY ASSIGNMENT 2
+THIS IS ASSIGNMENT 2 OF MY ITWS-I COURSE
+IN EACH QUESTION , A PROBLEM IS GIVEN  WHICH WE HAVE TO SOLVE BY MAKING BASH SCRIPT.
+THE SCRIPTS ARE TESTED AND RUN ON FEDORA(A LINUX DISTRIBUTION)
 
 Q1.​ ​Write​ ​a​ ​bash​ ​program​ ​which​ ​take​ ​two​ ​variables​ ​(i.e.​ ​warning​ ​level​ ​and​ ​critical​ ​level 
 percentage)​ ​and​ ​check​ ​disk​ ​space​ ​left.​ ​Finally​ ​print​ ​the​ ​output​ ​as​ ​shown​ ​below: 
